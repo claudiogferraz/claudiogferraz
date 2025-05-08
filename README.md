@@ -28,9 +28,9 @@ Among many other tools that I've used in the past, this is what I preferably cho
 [![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)  
 
 **Design & Audiovisual Production**:  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Affinity](https://img.shields.io/badge/Affinity-000000?style=for-the-badge&logo=affinity&logoColor=white)](#)
-[![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-232F3E?style=for-the-badge&logo=davinci-resolve&logoColor=white)](#)
 
 **Contact:**  
 [![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@claudioferraz.com "Send me an email.")  
