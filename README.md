@@ -31,7 +31,7 @@ Among many other tools that I've used in the past, this is what I preferably cho
 
 **Infrastructure:**  
 [![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C74634?style=for-the-badge&logo=oculus&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=oculus&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)  
 
 **Design & Audiovisual Production**:  
